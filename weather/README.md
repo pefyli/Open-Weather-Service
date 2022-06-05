@@ -35,9 +35,14 @@ run service
 ```
 
 ## Environment Setup
-Import the .sql file within /db folder.
-Configurate your db password/account and Open Weather API key within application.properties file.
 
+```sh
+Import the .sql file within /db folder.
+```
+
+```sh
+Configurate your db password/account and Open Weather API key within application.properties and Constant file.
+```
 
 ## API Endpoints
 

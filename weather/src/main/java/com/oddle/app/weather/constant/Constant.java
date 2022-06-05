@@ -4,9 +4,10 @@ import org.springframework.beans.factory.annotation.Value;
 
 public class Constant {
 	/*below final variable are ordered by letters*/
-	@Value("${apiKey}")
-    private static String apiKey;
-    public static final String API_KEY=apiKey;
+	
+	/*configurate your api key*/
+    public static final String API_KEY="";
+    
 	public static final String BASE = "base";
 	public static final String CITY_ID = "cityId";
 	public static final String COD = "cod";
