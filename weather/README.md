@@ -23,7 +23,7 @@ Weather API uses a number of open source projects to work properly:
 Import this project as a gradle project with "Open-Weather-Service\weather"
 
 
-Install and build the dependencies and devDependencies.
+Install and build the dependencies.
 ```sh
 ./gradlew build
 ```
